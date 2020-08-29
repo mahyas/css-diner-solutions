@@ -1,0 +1,44 @@
+What is CSS Diner:
+CSS Diner is a fun game to practice CSS selectors by answering 32 questions. It’s very user friendly, and I highly suggest you to try it!
+Link to the project:
+
+You can see the project here: https://flukeout.github.io/#
+And you can find the repository here: https://github.com/flukeout/css-diner
+Solutions:
+
+In case you are stuck in the middle of the game, I put my answers here for you. Please do your best before reading my solution though!
+
+
+
+1. plate	
+2. bento
+3. fancy
+4. plate > apple
+5. fancy pickle
+6. .small
+7. orange.small
+8. bento orange.small
+9. bento, plate
+10. *
+11. orange, pickle, plate apple
+12. plate + apple
+13. bento ~ pickle
+14. plate > apple
+15. plate orange:first-child
+16. plate *:only-child
+17. plate>apple, pickle
+18. plate:nth-child(3)
+19. bento:nth-last-child(3)
+20. apple:nth-last-child(5) or apple:first-of-type
+21. plate:nth-of-type(2n)
+22. plate:nth-of-type(2n+3)
+23. plate:nth-of-type(2)> apple or plate apple.small:only-of-type
+24. orange:last-of-type , apple:last-of-type or  orange:nth-child(2),  plate:nth-child(2)
+25. bento:empty or  bento:nth-child(3n+1)
+26. apple:not(.small)
+27. [for]
+28. plate[for]
+29. [for=”Vitaly”]
+30. [for^=”S”]
+31. [for$=”o”]
+32. [for*=”bb”]
